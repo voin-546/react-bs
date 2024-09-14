@@ -43,7 +43,7 @@ export default function Home () {
                         <path d="M5.52.359A.5.5 0 0 1 6 0h4a.5.5 0 0 1 .474.658L8.694 6H12.5a.5.5 0 0 1 .395.807l-7 9a.5.5 0 0 1-.873-.454L6.823 9.5H3.5a.5.5 0 0 1-.48-.641z"/>
                     </svg>
                         <h6 className="fw-bold pt-4 pb-3" data-aos="fade-up" data-aos-delay="300">Fat-Free</h6>
-                        <p data-aos="fade-up" data-aos="fade-up" data-aos-delay="500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere distinctio deserunt sit at qui excepturi sint dolore quasi voluptates explicabo nulla itaque ipsa fugiat, eveniet similique quam ad. Unde!</p>
+                        <p data-aos="fade-up" data-aos-delay="500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere distinctio deserunt sit at qui excepturi sint dolore quasi voluptates explicabo nulla itaque ipsa fugiat, eveniet similique quam ad. Unde!</p>
                     </div>
                     <div className="col-sm-12 col-md-6 col-lg-3 text-center">
                     <svg width="48" height="48" fill="currentColor" viewBox="0 0 24 24" data-aos="fade-up">
@@ -94,7 +94,7 @@ export default function Home () {
                     </div>
                     <div className="col-lg-6 col-sm-12">
                         <h2 className="fw-normal" data-aos="fade-up">Can I Use It To build a site for my client?</h2>
-                        <p data-aos="fade-up" data-aos="300">Yes, you can. You may use this template for any purpose, just don't forget about the 
+                        <p data-aos="fade-up" data-aos-delay="300">Yes, you can. You may use this template for any purpose, just don't forget about the 
                             <span className="d-inline-block mx-1">license</span>,
                         whicj says: "You must give apportriate credit", i.e. you must provide the the name of the creator and a link to the original template in your work
                         </p>

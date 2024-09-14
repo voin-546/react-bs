@@ -50,7 +50,7 @@ export default function Home () {
                         <path d="m12 21-.421-.281c-2.006-1.34-4.543-2.853-6.422-5.078-1.98-2.344-2.93-4.75-2.907-7.36C2.28 5.37 4.616 3 7.457 3c2.255 0 3.755 1.313 4.544 2.26.788-.947 2.287-2.26 4.543-2.26 2.841 0 5.177 2.37 5.206 5.28.027 2.61-.923 5.016-2.906 7.36-1.879 2.226-4.416 3.74-6.422 5.079l-.421.281Z"/>
                     </svg>   
                         <h6 className="fw-bold pt-4 pb-3" data-aos="fade-up" data-aos-delay="300">Creative Commons</h6>
-                        <p data-aos="fade-up" data-aos-delay="300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere distinctio deserunt sit at qui excepturi sint dolore quasi voluptates explicabo nulla itaque ipsa fugiat, eveniet similique quam ad. Unde!</p>
+                        <p data-aos="fade-up" data-aos-delay="500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere distinctio deserunt sit at qui excepturi sint dolore quasi voluptates explicabo nulla itaque ipsa fugiat, eveniet similique quam ad. Unde!</p>
                     </div>
                     <div className="col-sm-12 col-md-6 col-lg-3 text-center">
                     <svg width="48" height="48" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24" data-aos="fade-up">

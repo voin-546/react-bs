@@ -1,0 +1,8 @@
+.hero {
+    width: 100%;
+    height: 100vh;
+    background: fixed url("./home/72401-eolovogo_relefa-poyushhij_pesok-nebo-peyzash-erg-2560x1440.jpg") no-repeat center center / cover;
+    .text-center { transform: translate(-50%, -50%); }
+    .gap-3 { top: 60%; transform: translateX(-50%); }
+    #particles-js { height: 100vh; }
+}

@@ -10,9 +10,17 @@ import Contact from "./contact/contact";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import Button from "react-bootstrap/Button";
 import Footer from "./components/footer";
+import Aos from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from "react";
 export default function App () {
+    useEffect(() => {
+        Aos.init({
+            duration: 1200,
+        })
+    }, [])
     return <>
-        <Navbar expand="lg" className="bg-dark position-fixed w-100 z-3" data-bs-theme="dark">
+        <Navbar data-aos="fade-down" expand="lg" className="bg-dark position-fixed w-100 z-3" data-bs-theme="dark">
         <Container data-bs-theme="dark">
         <Navbar.Brand href="/" className="d-flex align-items-end gap-3">
         <svg width="36" height="36" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 19.5a7.5 7.5 0 1 0 0-15 7.5 7.5 0 0 0 0 15Z"/><path d="M12 22.5A10.5 10.5 0 1 1 22.5 12 10.512 10.512 0 0 1 12 22.5ZM12 3a9 9 0 1 0 9 9 9.01 9.01 0 0 0-9-9Z"/></svg>

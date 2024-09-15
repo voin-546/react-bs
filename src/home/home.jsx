@@ -18,7 +18,7 @@ export default function Home () {
             </div>
             <ParticlesComponent id="particles-js"/>
         </section>
-        <div className="text-center py-5 position-relative z-2">
+        <div className="text-center py-5 position-relative z-3">
             <h1 className="fw-normal" data-aos="fade-up">
                 The best place to tell people why they are here
             </h1>
